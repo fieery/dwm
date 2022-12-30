@@ -16,15 +16,6 @@
 - useless gap/ (Add gaps between clients, no border or gaps when in monocle mode) https://dwm.suckless.org/patches/uselessgap/
 - xresources/ https://dwm.suckless.org/patches/xresources/
 
-## Xresources
-
-- *.selbgcolor:           #8ec07c
-- *.selbordercolor:       #8ec07c
-- *.selfgcolor:           #fbf1c7
-- *.normbgcolor:          #1d2021
-- *.normbordercolor:      #504945
-- *.normfgcolor:          #bdae93
-
 ## Installation
 
 ```bash
