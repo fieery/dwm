@@ -16,7 +16,16 @@
 - useless gap/ (Add gaps between clients, no border or gaps when in monocle mode) https://dwm.suckless.org/patches/uselessgap/
 - xresources/ https://dwm.suckless.org/patches/xresources/
 
-## Installation
+## Xresources
+
+- *.selbgcolor:           #8ec07c
+- *.selbordercolor:       #8ec07c
+- *.selbordercolor:       #8ec07c
+- *.normbgcolor:          #1d2021
+- *.normbordercolor:      #504945
+- *.normfgcolor:          #bdae93
+
+-## Installation
 
 ```bash
 git clone https://github.com/fieery/dwm.git
