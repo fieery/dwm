@@ -25,7 +25,7 @@
 - *.normbordercolor:      #504945
 - *.normfgcolor:          #bdae93
 
--## Installation
+## Installation
 
 ```bash
 git clone https://github.com/fieery/dwm.git
