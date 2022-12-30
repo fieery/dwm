@@ -1,5 +1,7 @@
 # fieery's dwm
 
+![Alt text](dwm.png?raw=true "fieery's dwm")
+
 ## Patches applied
 
 - alwayscenter/ (Center floating windows) https://dwm.suckless.org/patches/alwayscenter/
