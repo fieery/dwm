@@ -20,7 +20,7 @@
 
 - *.selbgcolor:           #8ec07c
 - *.selbordercolor:       #8ec07c
-- *.selbordercolor:       #8ec07c
+- *.selfgcolor:           #fbf1c7
 - *.normbgcolor:          #1d2021
 - *.normbordercolor:      #504945
 - *.normfgcolor:          #bdae93
